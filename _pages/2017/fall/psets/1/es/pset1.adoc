@@ -10,9 +10,9 @@ toc: false
 
 [start=0]
 . Vea la primera ponencia de la semana 1.
-. Configure el IDE de CS50 con “hello.c”.
-. Recree una de las pirámides de Mario en “mario.c”.
-. Acepte algo de efectivo en “cash.c” o de crédito en “credit.c”.
+. Configure el IDE de CS50 con `hello.c`.
+. Recree una de las pirámides de Mario en `mario.c`.
+. Acepte algo de efectivo en “cash.c” o de crédito en `credit.c`.
 . Envíe el código.
 . Envíe un formulario.
 
