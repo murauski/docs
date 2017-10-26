@@ -1,1 +1,30 @@
+---
+layout: 2017/fall
+toc: false
+---
+:skip-front-matter:
+
+= Conjunto de problemas 1: C
+
+== tl;dr
+
+[start=0]
+. Vea la primera ponencia de la semana 1.
+. Configure el IDE de CS50 con “hello.c”.
+. Recree una de las pirámides de Mario en “mario.c”.
+. Acepte algo de efectivo en “cash.c” o de crédito en “credit.c”.
+. Envíe el código.
+. Envíe un formulario.
+
+include::help-harvard.adoc[]
+
+== Introducción
+
+Recuerde que el IDE de CS50 es un “entorno de desarrollo integrado” basado en Internet que le permite programar “en la nube”, sin instalar ningún software de forma local. Funciona sobre un conocido sistema operativo, Ubuntu Linux, que se ha “implementado en contenedores” con el software de código abierto llamado Docker, que permite que varios usuarios (como usted) compartan el “kernel” (el núcleo, por así decirlo) y los archivos del sistema operativo, aunque cada uno tenga sus propios archivos. De hecho, el IDE de CS50 le proporciona su propia “área de trabajo” (o espacio de almacenamiento), donde puede guardar sus propios archivos y sus carpetas (es decir, los directorios).
+
+=== Inicio de sesión
+
+Acceda a https://cs50.io/[cs50.io] e inicie sesión en el IDE de CS50. Puede que tenga volver a especificar su dirección de correo electrónico. De ser así, después de hacerlo, haga clic en *Private* (Privado) en *Hosted workspace* (Área de trabajo hospedada), seleccione *Harvard's CS50* (CS50 de Hardvard) en *Choose a template* (Seleccione una plantilla) y, a continuación, haga clic en *Create workspace* (Crear área de trabajo).
+
+Se le informará de que el IDE de CS50 (es decir, Cloud9, el software con el que funciona) está “creando el área de trabajo” y “creando el contenedor”, lo que puede tardar un momento. En breve verá su área de trabajo, que será similar a la de David de la semana 1. De no ser así, envíe un correo electrónico a los responsables del curso para solicitar información.
 
