@@ -20,13 +20,13 @@ include::help-harvard.adoc[]
 
 === البدء
 
-Recall that CS50 IDE is a web-based "integrated development environment" that allows you to program "in the cloud," without installing any software locally. Underneath the hood is a popular operating system, Ubuntu Linux, that's been "containerized" with open-source software called Docker, that allows multiple users (like you!) to share the operating system's "kernel" (its nucleus, so to speak) and files, even while having files of their own. Indeed, CS50 IDE provides you with your very own "workspace" (i.e., storage space) in which you can save your own files and folders (aka directories).
+	تذكر أن CS50 IDE عبارة عن "بيئة تطوير متكاملة" معتمدة على شبكة ويب والتي تسمح لك بالبرمجة "السحابية" ، بدون تثبيت أي برامج محلية. تستند هذه البيئة إلى نظام تشغيل شهير ، وهو Ubuntu Linux ، الذي تم "طرحه" باستخدام برمجيات مفتوحة المصدر تسمى Docker ، والتي تسمح لمستخدمين متعددين (مثلك!) بمشاركة "أساس" نظام التشغيل (نواته ، إن صح التعبير) وملفاته ، حتى إذا كانت هناك ملفات خاصة بهم. يوفر لك CS50 IDE بالفعل "مساحة العمل" الخاصة بك (أي مساحة تخزين) والتي يمكنك حفظ الملفات والمجلدات الخاصة بك فيها (تعرف أيضا باسم الدلائل).
 
 === جاري تسجيل الدخول
 
-Head to https://cs50.io/[cs50.io] and log into CS50 IDE. You may be prompted (again) for your email address. If so, after providing it, click *Private* under *Hosted workspace*, then choose *Harvard's CS50* under *Choose a template*, and click *Create workspace*.
+توجه إلى https:// cs50.io / [cs50.io] وقم بتسجيل الدخول إلى CS50 IDE. قد تتم مطالبتك (مرة أخرى) بعنوان البريد الإلكتروني الخاص بك. إذا كان الأمر كذلك ، فبعد إدخاله ، انقر فوق * Private * (خاص) تحت * Hosted workspace * (مساحة العمل المستضافة) ، ثم اختر * Harvard's CS50 * (دورة جامعة هارفارد CS50) تحت * Choose a template * (اختيار قالب) ، وانقر فوق * Create workspace * (إنشاء مساحة عمل).
 
-You should then be informed that CS50 IDE (aka Cloud9, the software that underlies CS50 IDE) is "creating your workspace" and "creating your container," which might take a moment. You should eventually see your workspace, which should resemble David's from Week 1. If not, do just email the course's heads to inquire!
+سيتم إبلاغك بعد ذلك أن CS50 IDE (المعروف بـ Cloud9 ، البرنامج الذي تعتمد عليه بيئة CS50 IDE) يقوم "بإنشاء مساحة العمل الخاصة بك" و "إنشاء الحاوية الخاصة بك" ، وقد يستغرق هذا العمل لحظة. في النهاية ، سوف ترى مساحة العمل الخاصة بك ، والتي يجب أن تشابه مساحة العمل الخاصة بديفيد الموجودة من الأسبوع الأول. إذا لم يكن الأمر كذلك ، فقم فقط بإرسال رسالة بريد إلكتروني إلى رؤساء الدورة للاستفسار!
 
 === Updating
 
