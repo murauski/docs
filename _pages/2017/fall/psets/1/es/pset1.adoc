@@ -4,29 +4,29 @@ toc: false
 ---
 :skip-front-matter:
 
-= Problem Set 1: C
+= Conjunto de problemas 1: C
 
 == tl;dr
 
 [start=0]
-. Watch Week 1's first lecture.
-. Get your CS50 IDE set up with `hello.c`.
-. Recreate one of Mario's pyramids, in `mario.c`.
-. Accept some cash in `cash.c` or credit in `credit.c`.
-. Submit your code.
-. Submit a form.
+. Vea la primera ponencia de la semana 1.
+. Configure el IDE de CS50 con `hello.c`.
+. Recree una de las pirámides de Mario en `mario.c`.
+. Acepte algo de efectivo en “cash.c” o de crédito en `credit.c`.
+. Envíe el código.
+. Envíe un formulario.
 
 include::help-harvard.adoc[]
 
-== Getting Started
+== Introducción
 
-Recall that CS50 IDE is a web-based "integrated development environment" that allows you to program "in the cloud," without installing any software locally. Underneath the hood is a popular operating system, Ubuntu Linux, that's been "containerized" with open-source software called Docker, that allows multiple users (like you!) to share the operating system's "kernel" (its nucleus, so to speak) and files, even while having files of their own. Indeed, CS50 IDE provides you with your very own "workspace" (i.e., storage space) in which you can save your own files and folders (aka directories).
+Recuerde que el IDE de CS50 es un “entorno de desarrollo integrado” basado en Internet que le permite programar “en la nube”, sin instalar ningún software de forma local. Funciona sobre un conocido sistema operativo, Ubuntu Linux, que se ha “implementado en contenedores” con el software de código abierto llamado Docker, que permite que varios usuarios (como usted) compartan el “kernel” (el núcleo, por así decirlo) y los archivos del sistema operativo, aunque cada uno tenga sus propios archivos. De hecho, el IDE de CS50 le proporciona su propia “área de trabajo” (o espacio de almacenamiento), donde puede guardar sus propios archivos y sus carpetas (es decir, los directorios).
 
-=== Logging In
+=== Inicio de sesión
 
-Head to https://cs50.io/[cs50.io] and log into CS50 IDE. You may be prompted (again) for your email address. If so, after providing it, click *Private* under *Hosted workspace*, then choose *Harvard's CS50* under *Choose a template*, and click *Create workspace*.
+Acceda a https://cs50.io/[cs50.io] e inicie sesión en el IDE de CS50. Puede que tenga volver a especificar su dirección de correo electrónico. De ser así, después de hacerlo, haga clic en *Private* (Privado) en *Hosted workspace* (Área de trabajo hospedada), seleccione *Harvard's CS50* (CS50 de Hardvard) en *Choose a template* (Seleccione una plantilla) y, a continuación, haga clic en *Create workspace* (Crear área de trabajo).
 
-You should then be informed that CS50 IDE (aka Cloud9, the software that underlies CS50 IDE) is "creating your workspace" and "creating your container," which might take a moment. You should eventually see your workspace, which should resemble David's from Week 1. If not, do just email the course's heads to inquire!
+Se le informará de que el IDE de CS50 (es decir, Cloud9, el software con el que funciona) está “creando el área de trabajo” y “creando el contenedor”, lo que puede tardar un momento. En breve verá su área de trabajo, que será similar a la de David de la semana 1. De no ser así, envíe un correo electrónico a los responsables del curso para solicitar información.
 
 === Updating
 
