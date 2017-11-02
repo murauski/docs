@@ -4,13 +4,13 @@ toc: false
 ---
 :skip-front-matter:
 
-= Problem Set 1: C
+= Набор задач 1: C
 
 == tl;dr
 
 [start=0]
-. Watch Week 1's first lecture.
-. Get your CS50 IDE set up with `hello.c`.
+. Лекция первой недели – смотреть.
+. Получи ваш CS50 IDE проинициализированный `hello.c`.
 . Recreate one of Mario's pyramids, in `mario.c`.
 . Accept some cash in `cash.c` or credit in `credit.c`.
 . Submit your code.
